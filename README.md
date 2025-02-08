@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 <!--
 **abigaillelizabeth/abigaillelizabeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-# 🧑 Abi Clark
-
-Hi there! I'm Abi, a dedicated Data Science and Psychology student at the University of Georgia.
 
 ## 📚 **Education**
 
