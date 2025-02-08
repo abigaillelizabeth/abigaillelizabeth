@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## **Education**
+### **Education**
 
 - **B.S. in Data Science & Psychology**  
   UGA Franklin College of Arts and Sciences  
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   Zell Miller Scholarship Recipient | Presidential Scholar
 
 
-## **Skills**
+### **Skills**
 
 #### **Technical Skills**
 - **Languages**: Java, Python, R
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 #### **Soft Skills**
 - **Leadership**: Treasurer of UGA Athena Womens Club Ultimate
 
-## **Contact Me!**
+### **Contact Me!**
 
 - **Email**: [aec92605@uga.edu](mailto:aec92605@uga.edu)
 - **LinkedIn**: [linkedin.com/in/abi-clark](https://www.linkedin.com/in/abi-clark/)
