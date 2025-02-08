@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 - **Email**: [aec92605@uga.edu](mailto:aec92605@uga.edu)
 - **LinkedIn**: [linkedin.com/in/abi-clark](https://www.linkedin.com/in/abi-clark/)
-- **ORCID**: [orcid.org/abigail-clark]([https://orcid.org/0009-0006-0720-2432])
+- **ORCID**: [orcid.org/abi-clark]([https://orcid.org/0009-0006-0720-2432])
