@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 🧑🏻‍💻 Ryan Majd
+# 🧑 Abi Clark
 
 Hi there! I'm Abi, a dedicated Data Science and Psychology student at the University of Georgia.
 
@@ -28,22 +28,6 @@ Hi there! I'm Abi, a dedicated Data Science and Psychology student at the Univer
   Expected Graduation: 2027 | **GPA**: 3.84
   **Zell Miller Scholarship Recipient** | **Presidential Scholar** | 
 
-## 💼 **Professional Experience**
-
-- **Co-Founder & CTO**, [TravelByte Inc.](https://travelbyte.net/)  
-  _Building a SaaS platform to enhance trucking efficiency with real-time data, optimizing truck stop capacities and routes._
-  
-- **Technology Team Organizer**, UGAHACKSX  
-  _June 2023 - Present_  
-  Collaborating on organizing a hackathon with 800+ participants, managing logistics, mentoring participants, and guiding the tech team.
-
-- **Performance Engineering Intern**, BIP Ventures  
-  _June 2023 - Present_  
-  Developing a comprehensive AI resource library, implementing efficient data organization systems, and compiling essential insights for over 300+ companies.
-
-- **Resident Assistant**, University of Georgia  
-  _August 2023 - Present_  
-  Ensuring a positive living experience for students, fostering community development, and providing support for over 50 residents.
 
 ## 🛠 **Skills**
 
