@@ -1,4 +1,5 @@
 ## Hi there! 👋
+Hi, I'm Abi! Welcome to my github. I'm pretty new to coding, but always excited to learn!
 
 <!--
 **abigaillelizabeth/abigaillelizabeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
   UGA Franklin College of Arts and Sciences
   Morehead Honors College
   Expected Graduation: 2027 | **GPA**: 3.84
-  **Zell Miller Scholarship Recipient** | **Presidential Scholar** | 
+  Zell Miller Scholarship Recipient | Presidential Scholar
 
 
 ## 🛠 **Skills**
