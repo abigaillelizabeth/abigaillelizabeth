@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ## **Skills**
 
-### **Technical Skills**
+#### **Technical Skills**
 - **Languages**: Java, Python, R
 - **Tools**: GitHub, Unix/Linux, Jupyter Lab & Jupyter Notebook
 
-### **Soft Skills**
+#### **Soft Skills**
 - **Leadership**: Treasurer of UGA Athena Womens Club Ultimate
 
 ## **Contact Me!**
