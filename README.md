@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## **Education**
 
 - **The University of Georgia**  
-  B.S. Data Science | B.S. Psychology
+  B.S. Data Science | B.S. Psychology  
   Franklin College of Arts and Sciences  
   Morehead Honors College  
   Expected Graduation: 2027 | **GPA**: 3.84  
