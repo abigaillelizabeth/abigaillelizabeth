@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 
 ## **Education**
 
-- **The University of Georgia**  
+- **The University of Georgia, Morehead Honors College**  
   B.S. Data Science | B.S. Psychology  
-  Franklin College of Arts and Sciences  
-  Morehead Honors College  
+  Franklin College of Arts and Sciences    
   Expected Graduation: 2027 | **GPA**: 3.84  
   Zell Miller Scholarship Recipient | Presidential Scholar
 
