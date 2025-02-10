@@ -29,10 +29,12 @@ Here are some ideas to get you started:
 
 #### **Technical Skills**
 - **Languages**: Java, Python, R
-- **Tools**: GitHub, Unix/Linux, Jupyter Lab & Jupyter Notebook
+- **IDEs**: Eclipse, Jupyter Lab, Jupyter Notebook, R-Studio, VS code
+- **Tools**: GitHub, Unix/Linux, Vercel, Anaconda
 
 #### **Soft Skills**
 - **Leadership**: Treasurer of UGA Athena Womens Club Ultimate
+- **Communication**: VP of Executive Communication in high school
 
 ## **Contact Me!**
 
