@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - **Languages**: Java, Python, R
 - **IDEs**:  VS code, R-Studio, Eclipse, Jupyter Lab, Jupyter Notebook
 - **Tools**: GitHub, Unix/Linux, Vercel, Anaconda
+- **GUIs**: implemented in Shiny (R), Streamlit (Python), Javafx 
 
 #### **Soft Skills**
 - **Leadership**: Treasurer of UGA Athena Womens Club Ultimate
