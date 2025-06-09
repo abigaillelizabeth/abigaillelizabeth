@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 #### **Technical Skills**
 - **Languages**: Java, Python, R
-- **IDEs**:  VS code, R-Studio, Eclipse, Jupyter Lab, Jupyter Notebook
+- **IDEs**:  VS code, R-Studio, Eclipse, Jupyter Lab, Jupyter Notebook, Spyder
 - **Tools**: GitHub, Unix/Linux, Vercel, Anaconda
 - **GUIs**: implemented in Shiny (R), Streamlit (Python), Javafx 
 
